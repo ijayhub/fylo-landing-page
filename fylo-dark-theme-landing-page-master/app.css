@@ -100,6 +100,7 @@ main{
     background-color:var(--Blue);
     border:none;
     color:var(--white);
+    cursor:pointer;
 }
 /* sub-title-heading */
 .Features{
@@ -281,6 +282,13 @@ footer{
 .footer-social-icons i{
     font-size:30px;
 }
+.footer-copyright{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
 /* mobile */
 @media screen and  (max-width:768px){
     html{
@@ -392,4 +400,4 @@ footer{
 
     }
     
- 
+}

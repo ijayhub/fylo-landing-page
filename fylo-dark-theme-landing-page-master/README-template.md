@@ -18,7 +18,7 @@ Users of this site should be able to:
 ### Links
 
 - Solution URL: https://github.com/ijayhub/fylo-landing-page
--Live URL:https://https://ja-y.netlify.app
+-Live URL:https://ja-y.netlify.app
 
 
 ## My process
@@ -66,4 +66,4 @@ Users of this site should be able to:
 
 
 ## Acknowledgments
-I really like to thank Chaoo Charles video and google search helped me to understand some things mostly using grid,layout.
+I really like to thank Chaoo Charles video helped me to understand some things mostly using grid,layout.
